@@ -1,0 +1,20 @@
+{
+  "name": "TG-downloader-bot",
+  "description": "YouTube Music Downloader Bot for Telegram. ",
+	"stack": "container",
+  "repository": "https://github.com/NM-bots-Lk/TG-downloader-bot.git",
+  "keywords": [
+  "python", 
+  "chatbot", 
+  "telegrambot"
+  ],
+  "website": "https://github.com/NM-bots-Lk/TG-downloader-bot.git",
+  "success_url": "https://t.me/Netuki_Bot",
+  "env": {
+    "TOKEN": {
+      "description": "Make a bot at BotFather http://telegram.dog/BotFather and get the token of your bot",
+      "value": "",
+      "required": true
+    }
+  }
+}
