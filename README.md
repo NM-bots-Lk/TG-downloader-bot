@@ -62,7 +62,7 @@ To get a local copy installed and working, follow these steps:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
-## Avaiilable on Telegram as [@NetukiBot](https://t.me/Netuki_bot)
+
 
 >  Thanks to everyone who starred this bot
 
